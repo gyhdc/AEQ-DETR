@@ -1,0 +1,11 @@
+AEQ-DETR
+
+Includes dataset preparation utilities from the AEQ-DETR project,
+which builds on DAMSDet / PaddleDetection.
+Upstream: https://github.com/gjj45/DAMSDet
+Source revision: faeed361a0ff668550339fcf48a3b4eeeb128eb8
+Copyright 2026 DAMSDet PyTorch contributors
+
+Included modifications cover paired-image data preparation and independent
+COCO prediction scoring. The upstream Apache-2.0 license and applicable
+attribution are retained.

@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+/tmp/
+/data/
+/datasets/
+/weights/
+/output/
+*.pt
+*.pth
+*.onnx
+*.pdparams
